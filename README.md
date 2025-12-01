@@ -3,15 +3,6 @@
 ## Data Scientist | Machine Learning | Engineer  
 Passionate about data science, machine learning, and sustainable technology! 💻
 
----
-
-### Connect with Me:
-[<img align="left" alt="RaquelLuckow | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]  
-[<img align="left" alt="RaquelLuckow | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]  
-<br />
-
----
-
 ### 🛠️ Languages and Tools:  
 <div align="left">
     <img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
